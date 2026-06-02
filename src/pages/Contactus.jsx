@@ -15,7 +15,7 @@ const TEAM = [
   { initials: "HN", name: "Huzaifa Nasir", role: "Shopify Expert", desc: "Shopify Specialist focused on building high-converting stores, custom themes, and optimized eCommerce experiences that drive sales.", grad: "linear-gradient(135deg,#7c3aed,#db2777)" },
   { initials: "BR", name: "Bilal Raza", role: "Content Strategist", desc: "Content calendars, captions & brand voice. Helps clients stay consistent and grow their audience.", grad: "linear-gradient(135deg,#4f46e5,#9333ea)" },
   { initials: "MT", name: "Mohammad Tahir", role: "Motion Designer", desc: "Animations, intros, and visual effects that make videos and brand content unforgettable.", grad: "linear-gradient(135deg,#c026d3,#9333ea)" },
-  { initials: "AR", name: "Ali Raza", role: "Client Success Manager", desc: "Your main point of contact. Ensures every deliverable is on time, on brand, and exceeds expectations.", grad: "linear-gradient(135deg,#0ea5e9,#6366f1)" },
+  { initials: "MA", name: "Mohammad Ali", role: "Client Success Manager", desc: "Your main point of contact. Ensures every deliverable is on time, on brand, and exceeds expectations.", grad: "linear-gradient(135deg,#0ea5e9,#6366f1)" },
 ];
 
 export default function ContactUs() {
